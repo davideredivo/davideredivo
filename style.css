@@ -1,0 +1,149 @@
+body {
+    background-color: white;
+}
+
+
+
+#bg {
+    background-image:url(imgss/aaron-mello-142044-unsplash.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-size: 72px;
+    height: 600px;
+    font-family: "Roboto";
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-top: 250px;
+}
+
+.gg {
+    color: dimgray;
+    transform: translate(0, 15px);
+    transition: 0.5s;
+}
+
+.gn {
+    opacity: 0.5;
+    transform: translate(0, 15px);
+    transition: 0.5s;
+}
+
+.nav {
+    padding-top: 30px
+}
+
+.nav-link {
+    color: #ffffff;
+    font-size: 18px;
+    
+}
+
+
+
+.about {
+    color: white;
+    font-family: "Roboto";
+    font-weight: 300;
+    letter-spacing: 0.09em;
+    font-size: 16px;
+    line-height: 30px;
+    padding-bottom: 60px;
+    
+}
+
+.testi {
+    color: white;
+    font-family: "Roboto";
+    font-weight: 300;
+    letter-spacing: 0.09em;
+    font-size: 16px;
+    line-height: 30px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: left;
+    padding-bottom: 60px;
+    padding-top: 70px;
+}
+
+#dark {
+    background-color: black;
+    padding-bottom: 30px;
+}
+
+.testibl {
+    font-family: "Roboto";
+    font-weight: 300;
+    letter-spacing: 0.09em;
+    padding-top: 30px;
+    line-height: 30px;
+    font-size: 16px;
+    padding-bottom:60px;
+}
+
+#mu, #mt, #my, #mx, #mk {
+    margin-top: 30px;
+}
+
+#my {
+    margin-bottom: 60px;
+}
+
+.subtitle {
+    color: white;
+    font-size: 42px;
+    font-family: "Roboto";
+    font-weight: 400;
+    padding-top: 30px;
+    text-align: right;
+    padding-top: 80px;
+}
+
+.subtitlebl {
+    font-size: 42px;
+    font-family: "Roboto";
+    font-weight: 400;
+    padding-top: 30px; 
+}
+
+#footer {
+    background-color: black;
+    height: 150px;
+}
+
+.contacts {
+    font-family: "Roboto";
+    color: white;
+    font-size: 14px;
+    font-weight: lighter;
+    font-kerning: 0.09em;
+    padding-top: 30px;
+    text-align: center;
+    
+}
+
+
+
+.drop {
+    transform: translate(0, 10px);
+    transition: 0.5s;
+    color: dimgrey;
+}
+
+
+
+.run {
+    opacity: 0;
+    transition: 2s;
+}
+
+.nav-link {
+    width:  
+}
+
